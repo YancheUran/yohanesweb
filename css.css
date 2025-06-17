@@ -1,0 +1,15 @@
+@import url(pexels-instawally-176851.jpg);
+html,
+body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+  background: url(pexels-instawally-176851.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
